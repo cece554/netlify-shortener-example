@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://shortener-demo.netlify.com",
+  "baseUrl": "https://thatsreallygood.design",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
